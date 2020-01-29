@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146302517604",
+    "firebase_url": "https://messagerdemo.firebaseio.com",
+    "project_id": "messagerdemo",
+    "storage_bucket": "messagerdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146302517604:android:369a614541f1e270977a71",
+        "android_client_info": {
+          "package_name": "com.ms.demo.siyu.mymessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146302517604-23c5ehss25fia47gs8u16tcfrcfljr7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApESOxjjlE7rKDX3JXwOoHbH_ayw97X-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146302517604-23c5ehss25fia47gs8u16tcfrcfljr7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
